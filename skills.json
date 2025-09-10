@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "titulo": "Front-End",
+    "Resumo": "Desenvolvimento de interfaces modernas e responsivas",
+    "Skills": [
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/html.svg?raw=true",
+        "texto": "HTML5"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/css.svg?raw=true",
+        "texto": "CSS3"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/javascript.svg?raw=true",
+        "texto": "JavaScript"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/typescript.svg?raw=true",
+        "texto": "TypeScript"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/react.svg?raw=true",
+        "texto": "React.JS"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Back-End",
+    "Resumo": "Desenvolvimento de aplicações robustas e escaláveis",
+    "Skills": [
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/python.svg?raw=true",
+        "texto": "Python"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/php.svg?raw=true",
+        "texto": "PHP"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/nodejs.svg?raw=true",
+        "texto": "Node.js"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Banco de Dados",
+    "Resumo": "Gerenciamento e modelagem de dados SQL e NoSQL",
+    "Skills": [
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/mysql.svg?raw=true",
+        "texto": "MySQL"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/mariadb.svg?raw=true",
+        "texto": "MariaDB"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/nodejs.svg?raw=true",
+        "texto": "MongoDB"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Infraestrutura",
+    "Resumo": "Infraestrutura, deploy e versionamento.",
+    "Skills": [
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/github.svg?raw=true",
+        "texto": "GitHub"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/git.svg?raw=true",
+        "texto": "Git"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/aws.svg?raw=true",
+        "texto": "AWS"
+      }
+    ]
+  }
+]

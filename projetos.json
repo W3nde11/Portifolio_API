@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "titulo": "Jogo do Numero Secreto",
+    "skills": [
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/html.svg?raw=true",
+        "texto": "HTML5"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/css.svg?raw=true",
+        "texto": "CSS3"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/javascript.svg?raw=true",
+        "texto": "JavaScript"
+      }
+    ],
+    "resumo": "Este projeto foi desenvolvido com o objetivo de aprender e aplicar conceitos fundamentais de lógica de programação utilizando HTML, CSS e JavaScript. Ao longo das aulas, desenvolvemos interações dinâmicas e práticas para entender o funcionamento de variáveis, funções, condicionais e manipulação de elementos no DOM.",
+    "link": "https://numerosecreto-nu-nine.vercel.app/",
+    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/numero_secreto.png?raw=true",
+    "status": "Finalizado"
+  },
+  {
+    "id": 2,
+    "titulo": "T' DayCare",
+    "skills": [
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/html.svg?raw=true",
+        "texto": "HTML5"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/css.svg?raw=true",
+        "texto": "CSS3"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/javascript.svg?raw=true",
+        "texto": "JavaScript"
+      }
+    ],
+    "resumo": "Este projeto foi desenvolvido com o objetivo de apoiar a microempreendedora Talita Alves, responsável pela empresa Recreação Infantil Bem Viver, um hotelzinho infantil localizado em Poá/SP. A creche enfrentava desafios relacionados à baixa cooperação dos pais nas atividades extras e à valorização do seu trabalho.",
+    "link": "https://tdaycare.netlify.app/",
+    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/tdyacare.png?raw=true",
+    "status": "Em Andamento"
+  }
+]
