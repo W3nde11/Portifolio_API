@@ -4,15 +4,15 @@
     "titulo": "Jogo do Numero Secreto",
     "skills": [
       {
-        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/html.svg?raw=true",
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/html.svg?raw=true",
         "texto": "HTML5"
       },
       {
-        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/css.svg?raw=true",
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/css.svg?raw=true",
         "texto": "CSS3"
       },
       {
-        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/javascript.svg?raw=true",
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/javascript.svg?raw=true",
         "texto": "JavaScript"
       }
     ],
@@ -26,21 +26,21 @@
     "titulo": "T' DayCare",
     "skills": [
       {
-        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/html.svg?raw=true",
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/html.svg?raw=true",
         "texto": "HTML5"
       },
       {
-        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/css.svg?raw=true",
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/css.svg?raw=true",
         "texto": "CSS3"
       },
       {
-        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/javascript.svg?raw=true",
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/javascript.svg?raw=true",
         "texto": "JavaScript"
       }
     ],
     "resumo": "Este projeto foi desenvolvido com o objetivo de apoiar a microempreendedora Talita Alves, responsável pela empresa Recreação Infantil Bem Viver, um hotelzinho infantil localizado em Poá/SP. A creche enfrentava desafios relacionados à baixa cooperação dos pais nas atividades extras e à valorização do seu trabalho.",
     "link": "https://tdaycare.netlify.app/",
-    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/tdyacare.png?raw=true",
+    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/tdaycare.png?raw=true",
     "status": "Em Andamento"
   }
 ]
