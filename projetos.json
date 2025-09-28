@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "titulo": "Jogo do Numero Secreto",
+    "titulo": "Bytebank",
     "skills": [
       {
         "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/html.svg?raw=true",
@@ -12,15 +12,16 @@
         "texto": "CSS3"
       },
       {
-        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/javascript.svg?raw=true",
-        "texto": "JavaScript"
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/typescript.svg?raw=true",
+        "texto": "TypeScript"
       }
     ],
-    "resumo": "Este projeto foi desenvolvido com o objetivo de aprender e aplicar conceitos fundamentais de lógica de programação utilizando HTML, CSS e JavaScript. Ao longo das aulas, desenvolvemos interações dinâmicas e práticas para entender o funcionamento de variáveis, funções, condicionais e manipulação de elementos no DOM.",
-    "link": "https://numerosecreto-nu-nine.vercel.app/",
-    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/numero_secreto.png?raw=true",
+    "resumo": "Projeto que evolui de JavaScript para TypeScript, explorando tipagem estática, módulos ES6 (import/export) e boas práticas. Configuração: Node.js, npm/yarn, TypeScript, tsconfig.json. Conceitos: Type Alias, Arrays Tipados, Enums, tipagem explícita. Estrutura: componentes, models, utils, organização modular. Funcionalidades: formatação de moeda/data, localStorage, agrupamento de transações, componente Extrato. Resultados: código mais seguro, escalável, organizado e manutenível.",
+    "link": "",
+    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/bytebank.webp?raw=true",
     "status": "Finalizado"
   },
+
   {
     "id": 2,
     "titulo": "T' DayCare",
@@ -38,9 +39,34 @@
         "texto": "JavaScript"
       }
     ],
-    "resumo": "Este projeto foi desenvolvido com o objetivo de apoiar a microempreendedora Talita Alves, responsável pela empresa Recreação Infantil Bem Viver, um hotelzinho infantil localizado em Poá/SP. A creche enfrentava desafios relacionados à baixa cooperação dos pais nas atividades extras e à valorização do seu trabalho.",
+    "resumo": "Este projeto foi desenvolvido com o objetivo de apoiar a microempreendedora Talita Alves, responsável pela empresa Recreação Infantil Bem Viver, um hotelzinho infantil localizado em Poá/SP. A creche enfrentava desafios relacionados à baixa cooperação dos pais nas atividades extras e à valorização do seu trabalho. Usuário: admin Senha: 12345678",
     "link": "https://tdaycare.netlify.app/",
-    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/tdaycare.png?raw=true",
+    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/tdaycare.webp?raw=true",
     "status": "Em Andamento"
+  },
+
+  {
+    "id": 3,
+    "titulo": "Jogo do Numero Secreto",
+    "skills": [
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/html.svg?raw=true",
+        "texto": "HTML5"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/css.svg?raw=true",
+        "texto": "CSS3"
+      },
+      {
+        "icone": "https://github.com/W3nde11/Portifolio_API/blob/main/public/skills/javascript.svg?raw=true",
+        "texto": "JavaScript"
+      }
+    ],
+  
+    "resumo": "Implementado com HTML, CSS e JavaScript, com foco em lógica de programação e interatividade no DOM. Manipulação de elementos com document.querySelector e alteração dinâmica de conteúdo. Uso de funções (com e sem return) para modularização e reutilização de código. Geração de números aleatórios via Math.random() e aplicação em lógica condicional para validação do chute do usuário. Controle de estado do jogo com variáveis para número secreto e tentativas. E refatoração para eliminar repetição, melhorar clareza, eficiência e organização do código.",
+  
+    "link": "https://logica-numero-secreto.vercel.app/",
+    "imagem": "https://github.com/W3nde11/Portifolio_API/blob/main/public/projetos/numero_secreto.webp?raw=true",
+    "status": "Finalizado"
   }
 ]
